@@ -748,8 +748,8 @@ window.onload = function() {
         
         // Draw title
         context.fillStyle = "#ffffff";
-        context.font = "24px Verdana";
-        context.fillText("Bubble Shooter", 10, 37);
+        context.font = "32px Viner Hand ITC";
+        context.fillText("Bubble Shooter", 20, 47);
         
 //         // Display fps
 //         context.fillStyle = "#ffffff";
